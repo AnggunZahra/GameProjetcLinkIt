@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainmenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/seting.unity
+    guid: 85f7ee08fac3312458de17ea9d5c9dbe
+  - enabled: 1
+    path: Assets/Scenes/lvl3x3.unity
+    guid: 1e073fd2744f8da40a37b9b059a3c9c7
+  - enabled: 1
+    path: Assets/Scenes/main31.unity
+    guid: 721fd0ae82153e04f9978f4a65acac96
+  - enabled: 1
+    path: Assets/Scenes/hint32.unity
+    guid: c76881dc0374fe54b8100038cb586813
+  - enabled: 1
+    path: Assets/Scenes/lvl4x4.unity
+    guid: ddc2b229fdd601b488ec22c412ce6f88
+  - enabled: 1
+    path: Assets/Scenes/lvl5x5.unity
+    guid: ddfbe4ea9538ed9479d02034e97541c3
+  - enabled: 1
+    path: Assets/Scenes/spesial.unity
+    guid: 809c3cc1e792fda49852cf2aa2085564
+  - enabled: 1
+    path: Assets/Scenes/hint41.unity
+    guid: b85b9bc725e447142b74ef3e3911c9a7
+  - enabled: 1
+    path: Assets/Scenes/hint31.unity
+    guid: d2cec8585ceca5b42b4dcec59fae6a22
+  - enabled: 1
+    path: Assets/Scenes/hint51.unity
+    guid: b45f245d33a15bb49a72ec9eeaa94a4f
+  - enabled: 1
+    path: Assets/Scenes/hintsp1.unity
+    guid: 70eff3d1d73ddac4385882714a814f41
+  - enabled: 1
+    path: Assets/Scenes/main41.unity
+    guid: c732cf04e862db74593e192ff2353547
+  - enabled: 1
+    path: Assets/Scenes/main32.unity
+    guid: c137ef67cb914804da02015e0484a545
+  - enabled: 1
+    path: Assets/Scenes/mainsp1.unity
+    guid: feacc7c9c34f2e04caf1648cf07a9ba7
+  - enabled: 1
+    path: Assets/Scenes/main51.unity
+    guid: 3c688c6db4670a44b8cde0696f5a035e
+  - enabled: 1
+    path: Assets/Scenes/reward31.unity
+    guid: bedd737127dc9a349b114bfa4dd80ecc
+  - enabled: 1
+    path: Assets/Scenes/reward41.unity
+    guid: 4375092d0f0cf8442b44b156b917e6a8
+  - enabled: 1
+    path: Assets/Scenes/reward51.unity
+    guid: 5a152c3b094300f40a94c87f1d9c50bd
+  - enabled: 1
+    path: Assets/Scenes/rewardsp.unity
+    guid: 1179894bbe3c3ca40aade63b5c03f53b
+  - enabled: 1
+    path: Assets/Scenes/hint42.unity
+    guid: 1daaf661455794c48b2e563d12629e07
+  - enabled: 1
+    path: Assets/Scenes/hint52.unity
+    guid: ee37be80118495c4e8509e6901cb4ed7
+  - enabled: 1
+    path: Assets/Scenes/hintsp2.unity
+    guid: 7f624969ac37f1641b96ee4e5cd8832f
+  - enabled: 1
+    path: Assets/Scenes/main42.unity
+    guid: 7a3594c1628116643b756392b643ccb1
+  - enabled: 1
+    path: Assets/Scenes/main52.unity
+    guid: 8cabe160ff012994d817ee52af6ab039
+  - enabled: 1
+    path: Assets/Scenes/mainsp2.unity
+    guid: 7b58623cf998d4247bbd28874225136a
+  m_configObjects: {}
